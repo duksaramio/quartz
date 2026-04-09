@@ -2,5 +2,4 @@
 title: My Notes
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+My Notes on Things that interest me. Mostly for myself, so it might not make sense for you. 
