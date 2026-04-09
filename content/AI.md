@@ -12,3 +12,4 @@
 - https://github.com/langchain-ai/agent-protocol
 - https://x.com/sarahwooders/status/2040121230473457921?s=20
 - https://docs.langchain.com/oss/python/deepagents/memory
+- https://github.com/jo-inc/camofox-browser
