@@ -1,5 +1,5 @@
-I don't waste time trying to finish a book. It's author's job to make me interested. 
+## Reading
 
-| Title | Author | My Rating | Start | End |
-| ----- | ------ | --------- | ----- | --- |
-|       |        |           |       |     |
+## Read
+
+## To Read
