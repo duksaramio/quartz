@@ -12,7 +12,7 @@
 
 ## Links
 
-- https://x.com/hwchase17/status/2042269195656921120?s=20
+- [Harrison Chase on X](https://x.com/hwchase17/status/2042269195656921120?s=20)
 - [The Anatomy of an Agent Harness](https://blog.langchain.com/the-anatomy-of-an-agent-harness/)
 - [GitHub - langchain-ai/deepagents: Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks. · GitHub](https://github.com/langchain-ai/deepagents)
 - [GitHub - langchain-ai/agent-protocol · GitHub](https://github.com/langchain-ai/agent-protocol)
