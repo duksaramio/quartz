@@ -5,4 +5,4 @@
 | 2026-04-09 |       |
 ## Links
 
-- https://pydantic.dev/docs/ai/overview/
+- [Pydantic AI \| Pydantic Docs](https://pydantic.dev/docs/ai/overview/)

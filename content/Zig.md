@@ -5,4 +5,4 @@
 | 2026-04-09 |       |
 ## Links
 
-- https://ziglang.org/
+- [Home ⚡ Zig Programming Language](https://ziglang.org/)

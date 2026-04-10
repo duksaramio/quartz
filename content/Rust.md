@@ -5,4 +5,4 @@
 | 2026-04-09 |       |
 ## Links
 
-- https://rust-lang.org/
+- [Rust Programming Language](https://rust-lang.org/)

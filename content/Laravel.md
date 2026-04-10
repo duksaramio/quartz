@@ -17,14 +17,14 @@ php artisan view:cache
 
 ## Progress
 
-| Date       | Notes                                       |
-| ---------- | ------------------------------------------- |
-| 2026-04-09 | https://laravel.com/docs/13.x/configuration |
-|            | https://laravel.com/docs/13.x/lifecycle     |
-|            | https://laravel.com/docs/13.x/blade         |
-|            |                                             |
+| Date       | Notes                                                                                                                  |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------- |
+| 2026-04-09 | [Configuration \| Laravel 13.x - The clean stack for Artisans and agents](https://laravel.com/docs/13.x/configuration) |
+|            | [Request Lifecycle \| Laravel 13.x - The clean stack for Artisans and agents](https://laravel.com/docs/13.x/lifecycle) |
+|            | [Blade Templates \| Laravel 13.x - The clean stack for Artisans and agents](https://laravel.com/docs/13.x/blade)                                                             |
+|            |                                                                                                                        |
 ## Links
 
-- https://laravel.com/docs
-- https://www.youtube.com/watch?v=DOABX6QYsYg
-- https://frankenphp.dev/
+- [Installation \| Laravel 13.x - The clean stack for Artisans and agents](https://laravel.com/docs)
+- [I Built a Personal AI Assistant with Laravel - YouTube](https://www.youtube.com/watch?v=DOABX6QYsYg)
+- [FrankenPHP: the modern PHP app server](https://frankenphp.dev/)

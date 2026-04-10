@@ -5,4 +5,4 @@
 | 2026-04-09 |       |
 ## Links
 
-https://dspy.ai/learn/
+- [Learning DSPy - DSPy](https://dspy.ai/learn/)
