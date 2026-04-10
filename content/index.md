@@ -12,5 +12,6 @@ title: My Notes
 | 2026-04-10 | [Deep Agents overview - Docs by LangChain](https://docs.langchain.com/oss/python/deepagents/overview) |
 ## Notes
 
+- I pick technology solely based on its creator. That's pretty much it. I don't even care about what's under the hood. This is exactly a reason why I will use [[Laravel]] if  there is a need for web development. 
 - Chrome Vertical Tab takes some time to get used to strangely. But like it better especially if you use ultra wide monitor. Open tab in split view is nice too.
 - It is a profound and necessary truth that the deep things in science are not found because they are useful; they are found because it was possible to find them. - Robert Oppenheimer
