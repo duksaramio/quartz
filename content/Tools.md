@@ -1,6 +1,6 @@
 
 - [[Laravel]] for Web Application
-- [[Hermes]] for personal AI Agent
+- [[Hermes Agent]] for personal AI Agent
 - Jetbrains IDEs with Pi ACP as AI buddy
 - zsh inside Ghostty
 - Gemini as AI Chatbot
