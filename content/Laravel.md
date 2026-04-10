@@ -7,6 +7,12 @@ php artisan install:api
 php artisan make:middleware EnsureTokenIsValid
 
 php artisan make:controller UserController
+
+php artisan make:view greeting
+
+php artisan view:cache
+
+
 ```
 
 ## Progress
@@ -14,7 +20,8 @@ php artisan make:controller UserController
 | Date       | Notes                                       |
 | ---------- | ------------------------------------------- |
 | 2026-04-09 | https://laravel.com/docs/13.x/configuration |
-| 2026-04-09 | https://laravel.com/docs/13.x/lifecycle     |
+|            | https://laravel.com/docs/13.x/lifecycle     |
+|            | https://laravel.com/docs/13.x/blade         |
 |            |                                             |
 ## Links
 
