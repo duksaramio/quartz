@@ -6,9 +6,10 @@ title: My Notes
 
 ## Get a Little Better Everyday
 
-| Date       | Progress                |
-| ---------- | ----------------------- |
-| 2026-04-09 | **Learned** [[Laravel]] |
+| Date       | Progress                                                                         |
+| ---------- | -------------------------------------------------------------------------------- |
+| 2026-04-09 | **Learned** [[Laravel]]                                                          |
+| 2026-04-10 | [Deep Agents overview - Docs by LangChain](https://docs.langchain.com/oss/python/deepagents/overview) |
 ## Notes
 
 - Chrome Vertical Tab takes some time to get used to strangely. But like it better especially if you use ultra wide monitor. Open tab in split view is nice too.
