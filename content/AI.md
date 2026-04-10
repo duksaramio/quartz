@@ -1,6 +1,7 @@
-## Notes
+## My Notes
 
 - "Ask Gemini" Sidebar now preserves past interactions as long as the tab is open
+- Not sure why most people are still so obsessed with using AI to build traditional apps. Building AI Agent should be the main goal and probably build UI as dashboard or read only or emergency purpose
 
 ## Progress
 
@@ -19,4 +20,4 @@
 - https://github.com/jo-inc/camofox-browser
 - https://www.youtube.com/watch?v=gGGCJWbqHqc
 - https://dropbox.tech/machine-learning/optimizing-dropbox-dash-relevance-judge-with-dspy
-- 
+- https://platform.xiaomimimo.com/#/docs/welcome
