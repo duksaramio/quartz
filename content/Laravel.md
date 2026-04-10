@@ -23,6 +23,8 @@ php artisan view:cache
 |            | [Request Lifecycle \| Laravel 13.x - The clean stack for Artisans and agents](https://laravel.com/docs/13.x/lifecycle) |
 |            | [Blade Templates \| Laravel 13.x - The clean stack for Artisans and agents](https://laravel.com/docs/13.x/blade)                                                             |
 |            |                                                                                                                        |
+
+
 ## Links
 
 - [Installation \| Laravel 13.x - The clean stack for Artisans and agents](https://laravel.com/docs)

@@ -2,6 +2,7 @@
 
 - "Ask Gemini" Sidebar now preserves past interactions as long as the tab is open
 - Not sure why most people are still so obsessed with using AI to build traditional apps. Building AI Agent should be the main goal and probably build UI as dashboard or read only or emergency purpose
+- The best feature of AI Chatbots is that entire knowledge base comes to me; I don't need to google and click on bunch of links hoping for the best. 
 
 ## Progress
 
