@@ -10,6 +10,10 @@
 | ---------- | ----- |
 | 2026-04-09 |       |
 
+## AI Chatbots
+
+- [Meta AI](https://www.meta.ai/)
+- 
 ## Links
 
 - [Harrison Chase on X](https://x.com/hwchase17/status/2042269195656921120?s=20)
