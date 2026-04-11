@@ -15,6 +15,7 @@ title: My Notes
 | 2026-04-11 | [[mlflow]]    | [MLflow — Open Source AI Platform for Agents, LLMs & Models](https://mlflow.org/docs/latest/genai/)                                                             |
 ## Notes
 
+- In AI era, most of your questions on the Internet come off as lazy. Just ask chatGPT and likes. You don't need to ask real people that many questions. And smart people will judge you by the quality of your questions. Dumb people ask dumb and lazy questions; people can tell how much effort you've put in before asking that question.
 - Linkedin is such a garbage website. 
 - Does "experience" matter a lot in AI era? I am pretty confident I can get most white collar job that I know nothing about and be top 20% performer within weeks by working with AI. 
 - Yes movies suck these days. But do you know what movies suck as well? The movies you watched long time ago. It's a good idea to watch the movies you thought great again. It's a good exercise on how to think. You will be surprised how many of those you thought great back in the days now feel a bit sucky. 
