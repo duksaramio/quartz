@@ -19,4 +19,9 @@ title: My Notes
 - Sheng Wang is hilarious. It's amazing this dude can be this funny without cussing. And he stays away from politics. Once you get too political, that's when you stop being funny. Comedians should find common grounds to unite all of us and have laugh together. People watch comedy to get away from all that, not to get more of that. Whoever doesn't get it doesn't get what comedy is all about.
 - I pick technology solely based on its creator. That's pretty much it. I don't even care about what's under the hood. This is exactly a reason why I will use [[Laravel]] if  there is a need for web development. 
 - Chrome Vertical Tab takes some time to get used to strangely. But like it better especially if you use ultra wide monitor. Open tab in split view is nice too.
+
+## Quotes
+
+- The amount of noise that anyone can bear undisturbed stands in inverse proportion to his mental capacity. - Arthur Schopenhauer
 - It is a profound and necessary truth that the deep things in science are not found because they are useful; they are found because it was possible to find them. - Robert Oppenheimer
+
