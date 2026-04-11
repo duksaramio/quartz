@@ -11,6 +11,7 @@ title: My Notes
 | 2026-04-09 | **Learned** [[Laravel]]                                                                                                                                         |
 | 2026-04-10 | [Deep Agents overview - Docs by LangChain](https://docs.langchain.com/oss/python/deepagents/overview)                                                           |
 | 2026-04-10 | [How to Train Your First TensorFlow Model in PyCharm \| The PyCharm Blog](https://blog.jetbrains.com/pycharm/2026/04/how-to-train-your-first-tensorflow-model/) |
+| 2026-04-10 | [Flutter AI skills \| Observable Flutter #88](https://www.youtube.com/live/2h3teBoAHQY)                                                                         |
 ## Notes
 
 - Does "experience" matter a lot in AI era? I am pretty confident I can get most white collar job that I know nothing about and be top 20% performer within weeks by working with AI. 
