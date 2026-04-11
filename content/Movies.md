@@ -1,7 +1,4 @@
 
-> [!NOTE] Notes
-> IMDB 6.4 to 7 is usually watchable 7 and up is pretty good. 
-
 ## Recent Movies Worth Watching
 
 - [Predator: Badlands (2025) ⭐ 7.2 \| Action, Adventure, Sci-Fi](https://www.imdb.com/title/tt31227572/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_predator)

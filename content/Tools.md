@@ -14,5 +14,3 @@
 - [[Rust]]
 - [Obsidian - Sharpen your thinking](https://obsidian.md/)
 - [Flutter - Build apps for any screen](https://flutter.dev/)
-
-So many things to learn so little time. But AI definitely helps me to figure things out a lot quicker and even trivial things that I didn't want to bother wasting my energy researching. Now I ask Gemini every little trivial bullshit that I come across. 
