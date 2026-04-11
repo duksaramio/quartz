@@ -13,6 +13,7 @@ title: My Notes
 | 2026-04-10 | [How to Train Your First TensorFlow Model in PyCharm \| The PyCharm Blog](https://blog.jetbrains.com/pycharm/2026/04/how-to-train-your-first-tensorflow-model/) |
 ## Notes
 
+- Does "experience" matter a lot in AI era? I am pretty confident I can get most white collar job that I know nothing about and be top 20% performer within weeks by working with AI. 
 - Yes movies suck these days. But do you know what movies suck as well? The movies you watched long time ago. It's a good idea to watch the movies you thought great again. It's a good exercise on how to think. You will be surprised how many of those you thought great back in the days now feel a bit sucky. 
 - Have you watched a movie for the 2nd time,  but don't even remember the 1st time because it was so bad? That just happened. Yes, I did watch "MaXXXine" before. I love Mia Goth, but this was a bad movie. I force myself to watch any movie that Mia Goth is in and Cailee Spaeny is in. 
 - Sheng Wang is hilarious. It's amazing this dude can be this funny without cussing. And he stays away from politics. Once you get too political, that's when you stop being funny. Comedians should find common grounds to unite all of us and have laugh together. People watch comedy to get away from all that, not to get more of that. Whoever doesn't get it doesn't get what comedy is all about.
