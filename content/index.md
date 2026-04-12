@@ -13,9 +13,10 @@ title: My Notes
 | 2026-04-11 | [[Pydantic AI]]  | [Reflection and self-correction](https://pydantic.dev/docs/ai/core-concepts/agent/#reflection-and-self-correction)                                              |
 | 2026-04-12 | [[Pydantic AI]]  | [Dependencies](https://pydantic.dev/docs/ai/core-concepts/dependencies/)                                                                                        |
 | 2026-04-12 | [[Google Cloud]] | [Data Engineer \| Google Skills](https://www.skills.google/paths/16)                                                                                            |
-|            |                  | [Output](https://pydantic.dev/docs/ai/core-concepts/output/)                                                                                                    |
-|            |                  | [Stream Markdown](https://pydantic.dev/docs/ai/examples/stream-markdown)                                                                                        |
-|            |                  | [Stream Whales](https://pydantic.dev/docs/ai/examples/stream-whales)                                                                                      |
+| 2026-04-12 | [[Pydantic AI]]  | [Output](https://pydantic.dev/docs/ai/core-concepts/output/)                                                                                                    |
+| 2026-04-12 | [[Pydantic AI]]  | [Stream Markdown](https://pydantic.dev/docs/ai/examples/stream-markdown)                                                                                        |
+| 2026-04-12 | [[Pydantic AI]]  | [Stream Whales](https://pydantic.dev/docs/ai/examples/stream-whales)                                                                                            |
+| 2026-04-12 | [[Pydantic AI]]  | [Capabilities](https://pydantic.dev/docs/ai/core-concepts/capabilities/)                                                                                        |
 
 ## Life Optimized 
 
