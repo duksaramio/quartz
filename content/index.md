@@ -11,3 +11,4 @@ title: My Notes
 | 2026-04-10 | [[Flutter]]     | [Flutter AI skills \| Observable Flutter #88](https://www.youtube.com/live/2h3teBoAHQY)                                                                         |
 | 2026-04-11 | [[mlflow]]      | [MLflow — Open Source AI Platform for Agents, LLMs & Models](https://mlflow.org/docs/latest/genai/)                                                             |
 | 2026-04-11 | [[Pydantic AI]] | [Reflection and self-correction](https://pydantic.dev/docs/ai/core-concepts/agent/#reflection-and-self-correction)                                              |
+| 2026-04-12 | [[Pydantic AI]] | [Dependencies](https://pydantic.dev/docs/ai/core-concepts/dependencies/)                                                                                        |
