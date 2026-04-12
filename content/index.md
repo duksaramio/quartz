@@ -13,6 +13,9 @@ title: My Notes
 | 2026-04-11 | [[Pydantic AI]]  | [Reflection and self-correction](https://pydantic.dev/docs/ai/core-concepts/agent/#reflection-and-self-correction)                                              |
 | 2026-04-12 | [[Pydantic AI]]  | [Dependencies](https://pydantic.dev/docs/ai/core-concepts/dependencies/)                                                                                        |
 | 2026-04-12 | [[Google Cloud]] | [Data Engineer \| Google Skills](https://www.skills.google/paths/16)                                                                                            |
+|            |                  | [Output](https://pydantic.dev/docs/ai/core-concepts/output/)                                                                                                    |
+|            |                  | [Stream Markdown](https://pydantic.dev/docs/ai/examples/stream-markdown)                                                                                        |
+|            |                  | [Stream Whales](https://pydantic.dev/docs/ai/examples/stream-whales)                                                                                      |
 
 ## Life Optimized 
 
@@ -20,4 +23,5 @@ title: My Notes
 | ---------- | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2026-04-12 | [[Jetbrains]] | [Live templates \| PyCharm](https://www.jetbrains.com/help/pycharm/using-live-templates.html)                                                                                                                  |
 | 2026-04-12 | [[Brave]]     | [How do I use the Content Filter to block elements on a webpage? – Brave Help Center](https://support.brave.app/hc/en-us/articles/360018039072-How-do-I-use-the-Content-Filter-to-block-elements-on-a-webpage) |
+| 2026-04-12 |               | [Free Remote Desktop for Everybody - NoMachine](https://www.nomachine.com/)                                                                                                                                    |
 
