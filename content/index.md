@@ -18,6 +18,8 @@ title: My Notes
 | 2026-04-12 | [[Pydantic AI]]  | [Stream Whales](https://pydantic.dev/docs/ai/examples/stream-whales)                                                                                            |       |
 | 2026-04-12 | [[Pydantic AI]]  | [Capabilities](https://pydantic.dev/docs/ai/core-concepts/capabilities/)                                                                                        |       |
 | 2026-04-12 | [[Laravel]]      | [Laravel MCP \| Laravel 13.x - The clean stack for Artisans and agents](https://laravel.com/docs/13.x/mcp)                                                      |       |
+| 2026-04-13 | [[Pydantic AI]]  |                                                                                                                                                                 |       |
+|            | [[Clickhouse]]   | [ClickHouse OSS quick start \| ClickHouse Docs](https://clickhouse.com/docs/getting-started/quick-start/oss)                                                    |       |
 
 ## Life Optimized 
 
