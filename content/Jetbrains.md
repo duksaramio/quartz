@@ -1,5 +1,7 @@
 ## My Notes
 
+
+
 ## Links
 
 - [Getting started \| PyCharm](https://www.jetbrains.com/help/pycharm/getting-started.html)
