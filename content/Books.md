@@ -6,6 +6,7 @@
 - [On Trails: An Exploration: Moor, Robert: 9781476739236: Amazon.com: Books](https://www.amazon.com/Trails-Exploration-Robert-Moor/dp/1476739234/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.-GbdFTc4_P9Vdx86yHzvagncLtDgm90O7CuzL4EX18p3POunJYGgW21bPFQhulPgqWw02prMColI0bKiMDNatZKqjJOIbOzpqqzQarl3Dr03tnUOANGevu7PqQpvWboeRWmnAEEKwSMoYHhjNrCVqgQK8QsQfmLYvCCE7GYpRl1hCNCkmaRJ4nqt_guqtsBor63PLcTosm3S1WpQYo0x2gWkR6DqAUWLPO2hbzEwBRA.pYSNrVKvnCZYfgUUyd6qw4IVHyOQViL-N2psgMXzHG4&qid=1775825638&sr=8-1)
 - [AI Agents and Applications: With LangChain, LangGraph, and MCP: Infante, Roberto: 9781633436541: Amazon.com: Books](https://www.amazon.com/AI-Agents-Applications-LangChain-LangGraph/dp/1633436543/ref=sr_1_1?crid=257DCI4VOWJW5&dib=eyJ2IjoiMSJ9.mP-z5o2M8oyoXwD5LG53OqFgtlG3jSf8vn7uxyPnaGpI6bs2IwovCQ-nVcK7FSzL0I_Xx-5kndutu4drlh_DFI9zS4YzKoT3L0E3RxE3_0Ugp5X3R1w5Hd_2W86Mw3n5nIIGBe6i9RiBoNXOAzssUYYG_P4mmVY6e5DESv8tbJVP9LfU5i4XQS4kwPvRyfJJiiU1XFmhBQLsMEsZwqpCSZejmu49vFJeElNfpHiOVJY.2g8lv2-Z6-XX7QL9_FvadNjgKAHXd-A1yNSi8MvGYDA&dib_tag=se&keywords=ai+agents+and+applications&qid=1775825682&sprefix=ai+agent%2Caps%2C193&sr=8-1)
 - [Amazon - The Meaning of Your Life: Finding Purpose in an Age of Emptiness](https://www.amazon.com/Meaning-Your-Life-Finding-Emptiness/dp/B0FHJTRDH1/ref=tmm_pap_swatch_0)
+- [Stop Letting Everything Affect You: How to break free from overthinking, emotional chaos and self-sabotage](https://open.spotify.com/show/2ETKzimFltQe13tcPMfVmS?si=d4a1d87037f64a6f)
 
 ## Read
 
