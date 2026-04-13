@@ -26,3 +26,27 @@ title: My Notes
 | 2026-04-12 | [[Brave]]     | [How do I use the Content Filter to block elements on a webpage? – Brave Help Center](https://support.brave.app/hc/en-us/articles/360018039072-How-do-I-use-the-Content-Filter-to-block-elements-on-a-webpage) |
 | 2026-04-12 |               | [Free Remote Desktop for Everybody - NoMachine](https://www.nomachine.com/)                                                                                                                                    |
 
+## Links
+
+### Pydantic AI 
+
+- [Agents](https://pydantic.dev/docs/ai/core-concepts/agent/)
+- [Function Tools](https://pydantic.dev/docs/ai/tools-toolsets/tools/)
+- [Overview](https://pydantic.dev/docs/ai/mcp/overview/)
+- [Pydantic Evals](https://pydantic.dev/docs/ai/evals/evals/)
+### Laravel
+
+- [Routing \| Laravel 13.x - The clean stack for Artisans and agents](https://laravel.com/docs/13.x/routing)
+- [Laravel AI SDK \| Laravel 13.x - The clean stack for Artisans and agents](https://laravel.com/docs/13.x/ai-sdk)
+
+### MLFlow
+
+- [MLflow — Open Source AI Platform for Agents, LLMs & Models](https://mlflow.org/docs/latest/genai/)
+### Rust
+
+- [Introduction - The Rust Programming Language](https://doc.rust-lang.org/stable/book/ch00-00-introduction.html)
+### Zig 
+
+- [Overview ⚡ Zig Programming Language](https://ziglang.org/learn/overview/)
+- 
+
