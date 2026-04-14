@@ -1,6 +1,6 @@
 ## AI
 
-- MiniMax-M2.7 as [[AI/index]] workhorse (Will look into GLM-5.1 soon)
+- MiniMax-M2.7 as [[AI]] workhorse (Will look into GLM-5.1 soon)
 - [[Hermes Agent]] for personal AI Agent
 - [[Pydantic AI]]
 - [[DSPy]]
