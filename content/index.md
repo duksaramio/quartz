@@ -23,6 +23,7 @@ title: My Notes
 | 2026-04-13 | [[Langfuse]]     | [Overview - Langfuse](https://langfuse.com/docs)                                                                                                                                       |       |
 | 2026-04-13 | [[Pydantic AI]]  | [Overview](https://pydantic.dev/docs/ai/evals/evals/)                                                                                                                                  |       |
 |            | [[Books]]        | [Stop Letting Everything Affect You: How to break free from overthinking, emotional chaos and self-sabotage](https://open.spotify.com/show/2ETKzimFltQe13tcPMfVmS?si=d4a1d87037f64a6f) |       |
+| 2026-04-14 | [[Books]]        | [As a man thinketh. By James Allen. The James Allen Free Library](https://james-allen.in1woord.nl/?text=as-a-man-thinketh)                                                             |       |
 
 ## Life Optimized 
 
