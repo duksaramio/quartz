@@ -24,6 +24,7 @@ title: My Notes
 | 2026-04-13 | [[Pydantic AI]]  | [Overview](https://pydantic.dev/docs/ai/evals/evals/)                                                                                                                                  |       |
 |            | [[Books]]        | [Stop Letting Everything Affect You: How to break free from overthinking, emotional chaos and self-sabotage](https://open.spotify.com/show/2ETKzimFltQe13tcPMfVmS?si=d4a1d87037f64a6f) |       |
 | 2026-04-14 | [[Books]]        | [As a man thinketh. By James Allen. The James Allen Free Library](https://james-allen.in1woord.nl/?text=as-a-man-thinketh)                                                             |       |
+|            | [[Kilo Code]]    | [Introduction to Kilo Code](https://kilo.ai/docs/getting-started)                                                                                                                      |       |
 
 ## Life Optimized 
 
@@ -31,8 +32,9 @@ title: My Notes
 | ---------- | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2026-04-12 | [[Jetbrains]] | [Live templates \| PyCharm](https://www.jetbrains.com/help/pycharm/using-live-templates.html)                                                                                                                  |
 | 2026-04-12 | [[Brave]]     | [How do I use the Content Filter to block elements on a webpage? – Brave Help Center](https://support.brave.app/hc/en-us/articles/360018039072-How-do-I-use-the-Content-Filter-to-block-elements-on-a-webpage) |
-| 2026-04-12 |               | [Free Remote Desktop for Everybody - NoMachine](https://www.nomachine.com/)                                                                                                                                    |
+| 2026-04-12 | [[Tools]]     | [Free Remote Desktop for Everybody - NoMachine](https://www.nomachine.com/)                                                                                                                                    |
 | 2026-04-13 |               | Revived Old Surface Book Pro                                                                                                                                                                                   |
+|            |               |                                                                                                                                                                                                                |
 
 ## Links
 

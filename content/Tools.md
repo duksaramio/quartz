@@ -23,6 +23,7 @@
 - Use both Android and iOS as mobile phones
 - [[zsh]] inside [[Ghostty]]
 - [[Atuin]]
+- [Free Remote Desktop for Everybody - NoMachine](https://www.nomachine.com/)
 
 ## Programming Languages
 
