@@ -19,11 +19,11 @@ title: My Notes
 | 2026-04-12 | [[Pydantic AI]]  | [Capabilities](https://pydantic.dev/docs/ai/core-concepts/capabilities/)                                                                                                               |       |
 | 2026-04-12 | [[Laravel]]      | [Laravel MCP \| Laravel 13.x - The clean stack for Artisans and agents](https://laravel.com/docs/13.x/mcp)                                                                             |       |
 | 2026-04-13 | [[Pydantic AI]]  |                                                                                                                                                                                        |       |
-| 2026-04-13 | [[Clickhouse]]   | [ClickHouse OSS quick start \| ClickHouse Docs](https://clickhouse.com/docs/getting-started/quick-start/oss)                                                                           |       |
+| 2026-04-13 | [[Data Science/index]]   | [ClickHouse OSS quick start \| ClickHouse Docs](https://clickhouse.com/docs/getting-started/quick-start/oss)                                                                           |       |
 | 2026-04-13 | [[Langfuse]]     | [Overview - Langfuse](https://langfuse.com/docs)                                                                                                                                       |       |
 | 2026-04-13 | [[Pydantic AI]]  | [Overview](https://pydantic.dev/docs/ai/evals/evals/)                                                                                                                                  |       |
-|            | [[Books]]        | [Stop Letting Everything Affect You: How to break free from overthinking, emotional chaos and self-sabotage](https://open.spotify.com/show/2ETKzimFltQe13tcPMfVmS?si=d4a1d87037f64a6f) |       |
-| 2026-04-14 | [[Books]]        | [As a man thinketh. By James Allen. The James Allen Free Library](https://james-allen.in1woord.nl/?text=as-a-man-thinketh)                                                             |       |
+|            | [[Books/index]]        | [Stop Letting Everything Affect You: How to break free from overthinking, emotional chaos and self-sabotage](https://open.spotify.com/show/2ETKzimFltQe13tcPMfVmS?si=d4a1d87037f64a6f) |       |
+| 2026-04-14 | [[Books/index]]        | [As a man thinketh. By James Allen. The James Allen Free Library](https://james-allen.in1woord.nl/?text=as-a-man-thinketh)                                                             |       |
 |            | [[Kilo Code]]    | [Introduction to Kilo Code](https://kilo.ai/docs/getting-started)                                                                                                                      |       |
 
 ## Life Optimized 
@@ -32,7 +32,7 @@ title: My Notes
 | ---------- | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2026-04-12 | [[Jetbrains]] | [Live templates \| PyCharm](https://www.jetbrains.com/help/pycharm/using-live-templates.html)                                                                                                                  |
 | 2026-04-12 | [[Brave]]     | [How do I use the Content Filter to block elements on a webpage? – Brave Help Center](https://support.brave.app/hc/en-us/articles/360018039072-How-do-I-use-the-Content-Filter-to-block-elements-on-a-webpage) |
-| 2026-04-12 | [[Tools]]     | [Free Remote Desktop for Everybody - NoMachine](https://www.nomachine.com/)                                                                                                                                    |
+| 2026-04-12 | [[Tools/index]]     | [Free Remote Desktop for Everybody - NoMachine](https://www.nomachine.com/)                                                                                                                                    |
 | 2026-04-13 |               | Revived Old Surface Book Pro                                                                                                                                                                                   |
 |            |               |                                                                                                                                                                                                                |
 
