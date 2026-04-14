@@ -1,6 +1,7 @@
 ## My Notes
 
 - "Ask Gemini" Sidebar now preserves past interactions as long as the tab is open
+- test
 
 ## Progress
 
