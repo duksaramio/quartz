@@ -1,13 +1,12 @@
 ## My Notes
 
 - "Ask Gemini" Sidebar now preserves past interactions as long as the tab is open
-- test
 
 ## Progress
 
-| Date       | Notes |
-| ---------- | ----- |
-| 2026-04-09 |       |
+| Date       | Notes                                                                                                                                                                                                                                                                                                                                                |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2026-04-15 | Started working with phpstorm and kilo plug-in testing out laravel application.  I build the same simple app in iterations to improve. I start with "build me something" then based on what I get out of the model. I add / subtract / modify my prompts. My goal right now is to improve my prompt so that the model one shot my request in one go. |
 
 ## AI Chatbots
 
