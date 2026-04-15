@@ -16,5 +16,5 @@ php artisan make:tool RandomNumberGenerator
 
 ## Links
 
-- [[Laravel]]
+- [[Dev Tools/Laravel]]
 - 

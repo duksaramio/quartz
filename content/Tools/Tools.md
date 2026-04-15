@@ -8,7 +8,7 @@
 
 ## Development
 
-- [[Laravel]] for Web Application
+- [[Dev Tools/Laravel]] for Web Application
 - [[Jetbrains]] IDEs with Pi ACP as AI buddy
 - [Flutter - Build apps for any screen](https://flutter.dev/)
 

@@ -5,7 +5,7 @@ title: My Notes
 
 | Date       | Topic            | Progress                                                                                                                                                                               | Notes |
 | ---------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| 2026-04-09 | [[Laravel]]      | **Learned** [[Laravel]]                                                                                                                                                                |       |
+| 2026-04-09 | [[Dev Tools/Laravel]]      | **Learned** [[Dev Tools/Laravel]]                                                                                                                                                                |       |
 | 2026-04-10 | [[Langchain]]    | [Deep Agents overview - Docs by LangChain](https://docs.langchain.com/oss/python/deepagents/overview)                                                                                  |       |
 | 2026-04-10 | [[Jetbrains]]    | [How to Train Your First TensorFlow Model in PyCharm \| The PyCharm Blog](https://blog.jetbrains.com/pycharm/2026/04/how-to-train-your-first-tensorflow-model/)                        |       |
 | 2026-04-10 | [[Flutter]]      | [Flutter AI skills \| Observable Flutter #88](https://www.youtube.com/live/2h3teBoAHQY)                                                                                                |       |
@@ -17,7 +17,7 @@ title: My Notes
 | 2026-04-12 | [[Pydantic AI]]  | [Stream Markdown](https://pydantic.dev/docs/ai/examples/stream-markdown)                                                                                                               |       |
 | 2026-04-12 | [[Pydantic AI]]  | [Stream Whales](https://pydantic.dev/docs/ai/examples/stream-whales)                                                                                                                   |       |
 | 2026-04-12 | [[Pydantic AI]]  | [Capabilities](https://pydantic.dev/docs/ai/core-concepts/capabilities/)                                                                                                               |       |
-| 2026-04-12 | [[Laravel]]      | [Laravel MCP \| Laravel 13.x - The clean stack for Artisans and agents](https://laravel.com/docs/13.x/mcp)                                                                             |       |
+| 2026-04-12 | [[Dev Tools/Laravel]]      | [Laravel MCP \| Laravel 13.x - The clean stack for Artisans and agents](https://laravel.com/docs/13.x/mcp)                                                                             |       |
 | 2026-04-13 | [[Pydantic AI]]  |                                                                                                                                                                                        |       |
 | 2026-04-13 | [[ClickHouse]]   | [ClickHouse OSS quick start \| ClickHouse Docs](https://clickhouse.com/docs/getting-started/quick-start/oss)                                                                           |       |
 | 2026-04-13 | [[Langfuse]]     | [Overview - Langfuse](https://langfuse.com/docs)                                                                                                                                       |       |
@@ -25,6 +25,8 @@ title: My Notes
 |            | [[Books]]        | [Stop Letting Everything Affect You: How to break free from overthinking, emotional chaos and self-sabotage](https://open.spotify.com/show/2ETKzimFltQe13tcPMfVmS?si=d4a1d87037f64a6f) |       |
 | 2026-04-14 | [[Books]]        | [As a man thinketh. By James Allen. The James Allen Free Library](https://james-allen.in1woord.nl/?text=as-a-man-thinketh)                                                             |       |
 |            | [[Kilo Code]]    | [Introduction to Kilo Code](https://kilo.ai/docs/getting-started)                                                                                                                      |       |
+|            |                  | [GitHub - pydantic/pydantic-ai-harness: Batteries for your Pydantic AI agent.](https://github.com/pydantic/pydantic-ai-harness)                                                        |       |
+| 2026-04-15 | [[Pydantic AI]]  | [Code Mode](https://pydantic.dev/docs/ai/harness/code-mode/)                                                                                                                           |       |
 
 ## Life Optimized 
 
@@ -34,7 +36,7 @@ title: My Notes
 | 2026-04-12 | [[Brave]]     | [How do I use the Content Filter to block elements on a webpage? – Brave Help Center](https://support.brave.app/hc/en-us/articles/360018039072-How-do-I-use-the-Content-Filter-to-block-elements-on-a-webpage) |
 | 2026-04-12 | [[Tools]]     | [Free Remote Desktop for Everybody - NoMachine](https://www.nomachine.com/)                                                                                                                                    |
 | 2026-04-13 |               | Revived Old Surface Book Pro                                                                                                                                                                                   |
-|            |               |                                                                                                                                                                                                                |
+|            |               | [Turn your best AI prompts into one-click tools in Chrome](https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/)                                                                       |
 
 ## Links
 
