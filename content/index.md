@@ -28,6 +28,9 @@ title: My Notes
 |            |                       | [GitHub - pydantic/pydantic-ai-harness: Batteries for your Pydantic AI agent.](https://github.com/pydantic/pydantic-ai-harness)                                                        |       |
 | 2026-04-15 | [[Pydantic AI]]       | [Code Mode](https://pydantic.dev/docs/ai/harness/code-mode/)                                                                                                                           |       |
 | 2026-04-16 | [[AI]]                | [Spec-Driven Development with Coding Agents](https://www.deeplearning.ai/short-courses/spec-driven-development-with-coding-agents/)                                                    |       |
+| 2026-04-16 | [[Gradio]]            | [Any Custom Frontend with Gradio's Backend](https://huggingface.co/blog/introducing-gradio-server)                                                                                     |       |
+| 2026-04-16 | [[Gradio]]            | [Gradio Docs](https://www.gradio.app/main/docs/gradio/server)                                                                                                                          |       |
+| 2026-04-16 | [[Gradio]]            | [Server Mode](https://www.gradio.app/guides/server-mode)                                                                                                                               |       |
 
 ## Life Optimized 
 
