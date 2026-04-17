@@ -4,7 +4,7 @@ title: My Notes
 ## Default Mode
 
 > [!NOTE] What's Default mode
-> You start wasting time when you don't know what to do next. So I have my "default mode" that I do when I don't know what to do. 
+> You start wasting time when you don't know what to do next. So I have my "default mode" that I do when I don't know what to do. For now, it's reading bunch of tech stack documentations. 
 
 - [Routing \| Laravel 13.x - The clean stack for Artisans and agents](https://laravel.com/docs/13.x/routing)
 - [Learning DSPy - DSPy](https://dspy.ai/learn/)

@@ -6,6 +6,7 @@
 npx skills@latest add mattpocock/skills/grill-me
 # Add pi-interview for pi coding agent
 pi install npm:pi-interview
+# /grill-me prompt “..using pi-interview..”
 ```
 ## Sessions
 
