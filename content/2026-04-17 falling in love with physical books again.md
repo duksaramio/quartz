@@ -1,1 +1,4 @@
-Nothing beats a physical book. Will be reading physical books only moving forward. Falling asleep reading a book is one of the best feelings you can have as well. 
+
+- Nothing beats a physical book. Will be reading physical books only moving forward. Falling asleep reading a book is one of the best feelings you can have as well. 
+- [Eloquent: Getting Started \| Laravel 13.x - The clean stack for Artisans and agents](https://laravel.com/docs/13.x/eloquent#retrieving-models)
+- [Eloquent: Collections \| Laravel 13.x - The clean stack for Artisans and agents](https://laravel.com/docs/13.x/eloquent-collections)
