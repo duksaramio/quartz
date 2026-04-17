@@ -1,90 +1,16 @@
 ---
 title: My Notes
 ---
-## Default Mode
-
-> [!NOTE] What's Default mode
-> You start wasting time when you don't know what to do next. So I have my "default mode" that I do when I don't know what to do. For now, it's reading bunch of tech stack documentations. 
+## Learning
 
 - [Routing \| Laravel 13.x - The clean stack for Artisans and agents](https://laravel.com/docs/13.x/routing)
 - [Learning DSPy - DSPy](https://dspy.ai/learn/)
 - [Agents](https://pydantic.dev/docs/ai/core-concepts/agent/)
+
+## Reading
+
 - [Amazon - The Making of the Atomic Bomb: 25th Anniversary Edition](https://www.amazon.com/Making-of-Atomic-Bomb-audiobook/dp/B01B1ZCG8G/ref=sr_1_1?crid=2UNYYAZ7C7ZGL&dib=eyJ2IjoiMSJ9.w__AmWGJIsPCUq3KNaZYkZTsxiso5CXtwxRF35g4YV6uXzyWmNzaP5BrashK7DkW1PEhRvkaNgMh0_940hb5gKYT29Imv3w2-2fVONAJGgcLTJ6sy8I_rfrEU3q5McrZm2RrADEZpuor8WE-NJmssSbArFQidXJixxBptam7EcaGfb5zNbxeLC551nXwlVtsi0pYzn-90yHYF9i5hvZhN75jnzOgLlveBmflnXe_nI8.WzW8h6k193kMG2udYFfHTnD999B2YtWMMx1cOjC1bZQ&dib_tag=se&keywords=atomic+bomb+book&qid=1776391409&sprefix=atomic+bomb+boo%2Caps%2C177&sr=8-1)
-## Updated
-
-| Date       | File               | What           |
-| ---------- | ------------------ | -------------- |
-| 2026-04-16 | [[Coding with AI]] | Snippets added |
-
-## Added
-
-| Date       | File                       |
-| ---------- | -------------------------- |
-| 2026-04-16 | [[Spec-Drive Development]] |
-
-## Get a Little Better Everyday
-
-| Date       | Topic                      | Progress                                                                                                                                                                               | Notes |
-| ---------- | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| 2026-04-09 | [[Dev Tools/Laravel]]      | **Learned** [[Dev Tools/Laravel]]                                                                                                                                                      |       |
-| 2026-04-10 | [[Langchain]]              | [Deep Agents overview - Docs by LangChain](https://docs.langchain.com/oss/python/deepagents/overview)                                                                                  |       |
-| 2026-04-10 | [[Jetbrains]]              | [How to Train Your First TensorFlow Model in PyCharm \| The PyCharm Blog](https://blog.jetbrains.com/pycharm/2026/04/how-to-train-your-first-tensorflow-model/)                        |       |
-| 2026-04-10 | [[Flutter]]                | [Flutter AI skills \| Observable Flutter #88](https://www.youtube.com/live/2h3teBoAHQY)                                                                                                |       |
-| 2026-04-11 | [[mlflow]]                 | [MLflow — Open Source AI Platform for Agents, LLMs & Models](https://mlflow.org/docs/latest/genai/)                                                                                    |       |
-| 2026-04-11 | [[Pydantic AI]]            | [Reflection and self-correction](https://pydantic.dev/docs/ai/core-concepts/agent/#reflection-and-self-correction)                                                                     |       |
-| 2026-04-12 | [[Pydantic AI]]            | [Dependencies](https://pydantic.dev/docs/ai/core-concepts/dependencies/)                                                                                                               |       |
-| 2026-04-12 | [[Google Cloud]]           | [Data Engineer \| Google Skills](https://www.skills.google/paths/16)                                                                                                                   |       |
-| 2026-04-12 | [[Pydantic AI]]            | [Output](https://pydantic.dev/docs/ai/core-concepts/output/)                                                                                                                           |       |
-| 2026-04-12 | [[Pydantic AI]]            | [Stream Markdown](https://pydantic.dev/docs/ai/examples/stream-markdown)                                                                                                               |       |
-| 2026-04-12 | [[Pydantic AI]]            | [Stream Whales](https://pydantic.dev/docs/ai/examples/stream-whales)                                                                                                                   |       |
-| 2026-04-12 | [[Pydantic AI]]            | [Capabilities](https://pydantic.dev/docs/ai/core-concepts/capabilities/)                                                                                                               |       |
-| 2026-04-12 | [[Dev Tools/Laravel]]      | [Laravel MCP \| Laravel 13.x - The clean stack for Artisans and agents](https://laravel.com/docs/13.x/mcp)                                                                             |       |
-| 2026-04-13 | [[Pydantic AI]]            |                                                                                                                                                                                        |       |
-| 2026-04-13 | [[ClickHouse]]             | [ClickHouse OSS quick start \| ClickHouse Docs](https://clickhouse.com/docs/getting-started/quick-start/oss)                                                                           |       |
-| 2026-04-13 | [[Langfuse]]               | [Overview - Langfuse](https://langfuse.com/docs)                                                                                                                                       |       |
-| 2026-04-13 | [[Pydantic AI]]            | [Overview](https://pydantic.dev/docs/ai/evals/evals/)                                                                                                                                  |       |
-|            | [[Books]]                  | [Stop Letting Everything Affect You: How to break free from overthinking, emotional chaos and self-sabotage](https://open.spotify.com/show/2ETKzimFltQe13tcPMfVmS?si=d4a1d87037f64a6f) |       |
-| 2026-04-14 | [[Books]]                  | [As a man thinketh. By James Allen. The James Allen Free Library](https://james-allen.in1woord.nl/?text=as-a-man-thinketh)                                                             |       |
-|            | [[Kilo Code]]              | [Introduction to Kilo Code](https://kilo.ai/docs/getting-started)                                                                                                                      |       |
-|            |                            | [GitHub - pydantic/pydantic-ai-harness: Batteries for your Pydantic AI agent.](https://github.com/pydantic/pydantic-ai-harness)                                                        |       |
-| 2026-04-15 | [[Pydantic AI]]            | [Code Mode](https://pydantic.dev/docs/ai/harness/code-mode/)                                                                                                                           |       |
-| 2026-04-16 | [[Spec-Drive Development]] | [Spec-Driven Development with Coding Agents](https://www.deeplearning.ai/short-courses/spec-driven-development-with-coding-agents/)                                                    |       |
-| 2026-04-16 | [[Gradio]]                 | [Any Custom Frontend with Gradio's Backend](https://huggingface.co/blog/introducing-gradio-server)                                                                                     |       |
-| 2026-04-16 | [[Gradio]]                 | [Gradio Docs](https://www.gradio.app/main/docs/gradio/server)                                                                                                                          |       |
-| 2026-04-16 | [[Gradio]]                 | [Server Mode](https://www.gradio.app/guides/server-mode)                                                                                                                               |       |
-
-## Life Optimized 
-
-| Date       | Topic         | Progress                                                                                                                                                                                                       |
-| ---------- | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2026-04-12 | [[Jetbrains]] | [Live templates \| PyCharm](https://www.jetbrains.com/help/pycharm/using-live-templates.html)                                                                                                                  |
-| 2026-04-12 | [[Brave]]     | [How do I use the Content Filter to block elements on a webpage? – Brave Help Center](https://support.brave.app/hc/en-us/articles/360018039072-How-do-I-use-the-Content-Filter-to-block-elements-on-a-webpage) |
-| 2026-04-12 | [[Tools]]     | [Free Remote Desktop for Everybody - NoMachine](https://www.nomachine.com/)                                                                                                                                    |
-| 2026-04-13 |               | Revived Old Surface Book Pro                                                                                                                                                                                   |
-|            |               | [Turn your best AI prompts into one-click tools in Chrome](https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/)                                                                       |
 
 ## Links
 
-### Pydantic AI 
-
-- [Agents](https://pydantic.dev/docs/ai/core-concepts/agent/)
-- [Function Tools](https://pydantic.dev/docs/ai/tools-toolsets/tools/)
-- [Overview](https://pydantic.dev/docs/ai/mcp/overview/)
-- [Pydantic Evals](https://pydantic.dev/docs/ai/evals/evals/)
-### Laravel
-
-- [Routing \| Laravel 13.x - The clean stack for Artisans and agents](https://laravel.com/docs/13.x/routing)
-- [Laravel AI SDK \| Laravel 13.x - The clean stack for Artisans and agents](https://laravel.com/docs/13.x/ai-sdk)
-- [Laravel MCP \| Laravel 13.x - The clean stack for Artisans and agents](https://laravel.com/docs/13.x/mcp)
-
-### MLFlow
-
-- [MLflow — Open Source AI Platform for Agents, LLMs & Models](https://mlflow.org/docs/latest/genai/)
-### Rust
-
-- [Introduction - The Rust Programming Language](https://doc.rust-lang.org/stable/book/ch00-00-introduction.html)
-### Zig 
-
-- [Overview ⚡ Zig Programming Language](https://ziglang.org/learn/overview/)
-- 
-
+- [Saram Consulting](https://saram.io)
