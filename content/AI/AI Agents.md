@@ -1,6 +1,0 @@
-## My Notes
-
-## Links
-
-## Harness 
- 

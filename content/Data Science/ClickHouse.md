@@ -1,1 +1,0 @@
-[ClickHouse OSS quick start \| ClickHouse Docs](https://clickhouse.com/docs/getting-started/quick-start/oss)
