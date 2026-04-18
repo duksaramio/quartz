@@ -4,12 +4,13 @@ title: My Notes
 ## Daily Notes
 
 - [[2026-04-18 notes]]
-- [[2026-04-17 falling in love with physical books again]]
+- [[2026-04-17 notes]]
 ## Learning
 
 - [Routing \| Laravel 13.x - The clean stack for Artisans and agents](https://laravel.com/docs/13.x/routing)
 - [Learning DSPy - DSPy](https://dspy.ai/learn/)
 - [Agents](https://pydantic.dev/docs/ai/core-concepts/agent/)
+- [What is Filament? - Filament](https://filamentphp.com/docs/5.x/introduction/overview)
 
 ## Reading
 
