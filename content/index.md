@@ -3,6 +3,7 @@ title: My Notes
 ---
 ## Daily Notes
 
+- [[2026-04-18 notes]]
 - [[2026-04-17 falling in love with physical books again]]
 ## Learning
 
