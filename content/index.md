@@ -1,6 +1,8 @@
 ---
 title: My Notes
 ---
+"The best way to predict the future is to create it." — **Peter Drucker**
+
 ## Daily Notes
 
 - [[2026-04-19 notes]] 
